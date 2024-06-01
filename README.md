@@ -10,6 +10,10 @@ JAVA / JS / HTML / PHP / CSS / MYSQL / JUNIT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCqcveS1C8cvnDRxo5XuzsMA)
 
+## Explanations on Youtube
+<a href="https://www.youtube.com/watch?v=CjXnIRt2cXM" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 <!--
 **athulsebastiant/athulsebastiant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
