@@ -1,5 +1,5 @@
 ## Hi there 👋
-(https://github.com/athulsebastiant/athulsebastiant/blob/main/github-header-image.png)
+![](https://github.com/athulsebastiant/athulsebastiant/blob/main/github-header-image.png)
 I'm Athul Sebastian, and I mainly do web developmnet projects in JavaScript. I really enjoy learning languages like Java and PHP.
 
 Skills: JAVA/ JS / HTML / PHP / CSS
