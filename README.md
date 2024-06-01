@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Athul Sebastian, and I mainly do web developmnet projects in JavaScript. I really enjoy learning languages like Java and PHP.
+
+[![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=athulsebastiant)](https://github.com/athulsebastiant/github-readme-stats)
+
+
+
+
 <!--
 **athulsebastiant/athulsebastiant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
