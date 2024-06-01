@@ -2,7 +2,8 @@
 ![](https://github.com/athulsebastiant/athulsebastiant/blob/main/github-header-image.png)
 I'm Athul Sebastian, and I mainly do web development projects in JavaScript. I really enjoy learning languages like Java and PHP.
 
-Skills: JAVA / JS / HTML / PHP / CSS / MYSQL / JUNIT
+## Skills
+JAVA / JS / HTML / PHP / CSS / MYSQL / JUNIT
 
 [![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=athulsebastiant)](https://github.com/athulsebastiant/github-readme-stats)
 
