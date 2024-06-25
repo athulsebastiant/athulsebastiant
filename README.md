@@ -8,7 +8,7 @@ JAVA / JS / HTML / PHP / CSS / MYSQL / JUNIT
 
 [![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=athulsebastiant)](https://github.com/athulsebastiant/github-readme-stats)
 
-
+<!--
 ## Explanations on Youtube
 <a href="https://www.youtube.com/watch?v=CjXnIRt2cXM" target="_blank"><img src="https://i9.ytimg.com/vi_webp/CjXnIRt2cXM/mqdefault.webp?v=645e2d1a&sqp=CJyQ67IG&rs=AOn4CLCYGnZ3TA8QUhzGclhKLhrewIaz6g" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
@@ -21,7 +21,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=FD02fF77zMU" target="_blank"><img src="https://i9.ytimg.com/vi/FD02fF77zMU/mqdefault.jpg?v=64f35a7a&sqp=CPSU67IG&rs=AOn4CLDkt1VEQIabxqT_xTjhdf-H1QTvtg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-
+-->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCqcveS1C8cvnDRxo5XuzsMA)
 
 <!--
