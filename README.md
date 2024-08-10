@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://github.com/athulsebastiant/athulsebastiant/blob/main/github-header-image (1).png)
+![](https://github.com/athulsebastiant/athulsebastiant/blob/main/github-header-image.png)
 
 I mainly do web development projects in JavaScript and Java. I really enjoy learning languages like Java and PHP.
 
