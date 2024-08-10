@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://github.com/athulsebastiant/athulsebastiant/blob/main/github-header-image.png)
+![](https://github.com/athulsebastiant/athulsebastiant/blob/main/ghheader.png)
 
 ## 👋 Welcome to my GitHub!
 
