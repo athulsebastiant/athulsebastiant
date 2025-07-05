@@ -18,5 +18,5 @@ Text2Speech: A text-to-speech converter with javascript Web Speech API and Googl
 
 
 
-[![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=athulsebastiant)](https://github.com/athulsebastiant/github-readme-stats)
+
 
