@@ -1,6 +1,3 @@
-## Hi there 👋
-![](https://github.com/athulsebastiant/athulsebastiant/blob/main/ghheader.png)
-
 ## 👋 Welcome to my GitHub!
 
 I'm a passionate developer with expertise in JavaScript, Python, React, Express, MySQL and MongoDB. I enjoy building robust web applications, designing efficient databases, and writing clean, testable code.
