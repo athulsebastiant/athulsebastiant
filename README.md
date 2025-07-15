@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hi there! I'm a passionate **Full Stack Developer** based in Kerala, with a strong focus on **JavaScript**, **Python**, **React**, **Express**, **MySQL**, and **MongoDB**. I love building efficient web applications, designing scalable databases, and writing clean, testable code.
+Hi there! I'm a passionate **Test Automation developer** and a **React developer** based in Kerala, with a strong focus on **Java**,**Selenium**,**TestNG**, **JavaScript**, **Python**, **React**, **MySQL**, and **MongoDB**. I love building efficient web applications, testing frameworks, designing scalable databases, and writing clean, testable code.
 
 ---
 
