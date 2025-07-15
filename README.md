@@ -6,11 +6,9 @@ Hi there! I'm a passionate **Full Stack Developer** based in Kerala, with a stro
 
 ## 🔧 Tech Stack & Skills
 
-- ⚙️ **Languages:** JavaScript, Python, PHP, Java (Basic)
-- 🧩 **Frontend:** React, HTML5, CSS3, Bootstrap, Tailwind CSS
-- 🖥️ **Backend:** Node.js, Express.js, PHP
+- ⚙️ **Programming and Scripting:** JavaScript, Python, Java
+- 📦 **Tools & Technologies:** HTML, CSS, MySQL, React, Express.js, Selenium, TestNG, Git
 - 🗄️ **Databases:** MySQL, MongoDB
-- 📦 **Tools & Others:** Git, GitHub, Postman, Razorpay API, Web Speech API, PDFKit
 
 ---
 
