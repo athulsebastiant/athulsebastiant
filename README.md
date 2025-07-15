@@ -23,6 +23,14 @@ Hi there! I'm a passionate **Full Stack Developer** based in Kerala, with a stro
 > 🔹 Order processing for purchases & sales  
 > 🔹 Real-time reporting & analytics
 
+### 🛒 **E-commerce Test Automation Framework**
+> A robust Selenium-based automation framework for validating critical user flows on an e-commerce platform  
+> 🔹 Built with Java, Selenium WebDriver, TestNG, and POM  
+> 🔹 Automates registration, login, product search, cart, and checkout  
+> 🔹 Integrated Allure Reports with screenshots, severity levels, and test descriptions  
+> 🔹 Parallel execution, structured Log4j2 logging, and soft assertions for better debugging  
+> 🔹 Designed for scalability and maintainability with reusable utilities
+
 ### 🛒 **Electronics E-Commerce Web App**
 > A feature-rich e-commerce platform  
 > 🔹 Product add/edit, search, and filtering  
